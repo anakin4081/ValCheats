@@ -94,3 +94,4 @@
 2023-05-27 02:17:14 - Jacob - 3.0 - Authentication denied - Error fetching data
 2023-05-27 02:22:17 - Jacob - 3.0 - Checked for update - 3.0 to 2.0 - Update successful
 2023-05-27 02:22:21 - Jacob - 3.0 - Authentication denied - Error fetching data
+2023-05-27 02:22:40 - Jacob - 3.0 - Checked for update - 3.0 to 2.0 - Failed to save the downloaded executable.
