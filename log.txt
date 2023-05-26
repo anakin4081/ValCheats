@@ -34,3 +34,4 @@
 2023-05-26 17:51:22 - Jacob - 1.0 - Authentication successful
 2023-05-26 17:56:06 - Jacob - 1.0 - Authentication successful
 2023-05-26 17:57:00 - Jacob - 1.0 - Authentication successful
+2023-05-26 17:58:07 - Jacob - 1.0.0 - Authentication denied - Error fetching data
