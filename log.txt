@@ -26,11 +26,3 @@
 2023-05-26 15:16:13 - Jacob - 1.0 - Authentication successful
 2023-05-26 17:11:43 - Jacob - 1.0 - Authentication successful
 2023-05-26 17:16:24 - Jacob - 1.0 - Authentication successful
-
-2023-05-26 17:41:15 - Jacob - 1.0 - Checked for update - Already up to date
-
-2023-05-26 17:41:21 - Jacob - 1.0 - Checked for update - Already up to date
-
-2023-05-26 17:41:27 - Jacob - 1.0 - Checked for update - Already up to date
-2023-05-26 17:43:04 - Jacob - 1.0 - Checked for update - Already up to date
-2023-05-26 17:43:09 - Jacob - 1.0 - Checked for update - Already up to date
