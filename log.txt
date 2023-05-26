@@ -31,3 +31,4 @@
 2023-05-27 04:38:48 - Jacob - 2.0 - Checked for update - Already up to date
 2023-05-27 04:40:35 - Jacob - 3.0 - Authentication denied - Secret not found
 2023-05-27 04:40:35 - Jacob - 3.0 - Checked for update - 3.0 to 2.0 - Failed to save the downloaded executable on C:\: [Errno 22] Invalid argument: 'C:/Users/Jacob/Desktop/modmenu2.0.exe' - 3.0 to 2.0 - Update successful
+2023-05-27 04:40:40 - Jacob - 3.0 - Authentication denied - Secret not found
