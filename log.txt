@@ -53,3 +53,4 @@
 2023-05-27 15:24:15 - Jacob - 3.0 - Authentication denied - Secret not found
 2023-05-27 15:24:15 - Jacob - 3.0 - Checked for update - 3.0 to 2.0 - Failed to save the downloaded executable on C:\: [Errno 2] No such file or directory: 'C:/Users/Jacob/Desktop/modmenu2.0.exe' - 3.0 to 2.0 - Update successful
 2023-05-27 15:25:32 - Jacob - 3.0 - Authentication denied - Secret not found
+2023-05-27 15:25:32 - Jacob - 3.0 - Checked for update - 3.0 to 2.0 - Failed to save the downloaded executable on C:\: [Errno 2] No such file or directory: 'C:/Users/Jacob/Desktop/modmenu2.0.exe' - 3.0 to 2.0 - Update successful
