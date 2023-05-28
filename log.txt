@@ -32,3 +32,4 @@
 2023-05-27 15:57:29 - Jacob - 3.0 - Checked for update - 3.0 to 2.0 - Failed to save the downloaded executable on C:\: [Errno 2] No such file or directory: 'C:/Users/Jacob/Desktop/modmenu2.0.exe' - 3.0 to 2.0 - Update successful
 2023-05-27 16:58:09 - Jacob - 2.0 - Authentication successful
 2023-05-28 21:05:07 - Jacob - 3.0 - Authentication successful
+2023-05-28 21:45:42 - Jacob - 3.0 - Authentication successful
