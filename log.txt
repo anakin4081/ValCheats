@@ -52,3 +52,4 @@
 2023-06-10 14:05:23 - Jacob - 3.0 - Checked for update - Already up to date
 2023-06-11 13:40:33 - Jacob - 3.0 - Authentication successful
 2023-06-11 19:43:55 - Jacob - 3.0 - An error occurred during update: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /anakin4081/ValCheats/main/update/version.txt (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))
+2023-06-12 02:51:21 - Jacob - 3.0 - Checked for update - Already up to date
