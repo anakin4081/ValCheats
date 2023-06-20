@@ -76,3 +76,4 @@
 2023-06-19 22:27:09 - corey - 3.0 - Authentication successful
 2023-06-20 10:22:03 - corey - 3.0 - Authentication successful
 2023-06-20 23:51:50 - Jacob - INSTALLER - Authentication denied - Secret not found
+2023-06-20 23:51:50 - Jacob - INSTALLER - Checked for update - INSTALLER to 3.0 - Failed to save the downloaded executable on C:\: [Errno 22] Invalid argument: 'C:/Users/Jacob/Desktop/modmenu3.0.exe' - INSTALLER to 3.0 - Update successful
