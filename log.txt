@@ -93,3 +93,4 @@
 2023-06-21 14:36:03 - Jacob - INSTALLER - Authentication denied - Secret not found
 2023-06-21 14:36:03 - Jacob - INSTALLER - Checked for update - INSTALLER to 3.0 - Failed to save the downloaded executable on C:\: [Errno 2] No such file or directory: 'C:/Users/Jacob/Desktop/modmenu3.0.exe' - INSTALLER to 3.0 - Update successful
 2023-06-21 14:51:35 - Jacob - INSTALLER - Authentication denied - Secret not found
+2023-06-21 14:51:35 - Jacob - INSTALLER - Checked for update - INSTALLER to 3.0 - Failed to save the downloaded executable on C:\: [Errno 2] No such file or directory: 'C:/Users/Jacob/Desktop/modmenu3.0.exe' - INSTALLER to 3.0 - Update successful
